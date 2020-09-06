@@ -1,5 +1,4 @@
-Olá tudo bem? Seja bem-vindo ao meu perfil do GitHub
-Aqui está algumas das minhas redes sociais e formas de contatos:
+Olá, tudo bem? Seja bem-vindo ao meu perfil do GitHub.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-dos-reis-49ab2425/)](https://www.linkedin.com/in/rodrigo-dos-reis-49ab2425/)
 [![Gmail Badge](https://img.shields.io/badge/-dosreis.reis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dosreis.reis@gmail.com)](mailto:dosreis.reis@gmail.com)
